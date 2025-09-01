@@ -1,4 +1,7 @@
 Güncel hava durumu bilgilerinin anlık olarak görüntülenebileceği hava durumu sitesi, aynı zamanda konum bilgilerinize erişim izni vererek konumunuza ait anlık hava durumuna erişim sağlayabilirsiniz. 
+
+
+
 <img width="408" height="650" alt="Ekran görüntüsü 2024-08-14 172343" src="https://github.com/user-attachments/assets/8e7ab181-20c9-4cb4-aeb6-8d66c5c0582b" />
 <img width="1919" height="1135" alt="Ekran görüntüsü 2024-08-13 110211" src="https://github.com/user-attachments/assets/3352c31b-4a04-4e3d-82cf-b0f1b77e8107" />
 <img width="466" height="722" alt="Ekran görüntüsü 2024-08-13 110152" src="https://github.com/user-attachments/assets/d8ac5964-8215-4b57-b160-5f7e5331d90f" />
